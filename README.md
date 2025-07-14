@@ -41,6 +41,7 @@ Material Instance: 'MI_LaunchPlatform':
 Feel free to tag me or send me a message through any of my social links below:
 
 # youtube.com/@Nyteon
+# bsky.app/profile/matheusganancio.bsky.social
 # instagram.com/matheus_ganancio/
 # linkedin.com/in/matheus-ganancio/
 # x.com/MatheusGanancio
